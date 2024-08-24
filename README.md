@@ -11,14 +11,6 @@
 |  user_tags | 유저-역량 | 2,582 |
 |   train  | 유저-직무-지원여부 | 6,000 |
 
-Accuracy: 0.70
-Precision: 0.17
-Recall: 0.30
-F1 Score: 0.22
-Confusion Matrix:
-[[1176  367]
- [ 181   76]]
-ROC-AUC Score: 0.53
 
 ## Results for Test Dataset
 
