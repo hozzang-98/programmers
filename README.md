@@ -12,9 +12,11 @@
 |   train  | 유저-직무-지원여부 | 6,000 |
 
 
-## Results for Test Dataset
+## Performance for Test Dataset
 
 |   Model    |       Imbalancing      | Accuracy (%) | Precision (%) | Recall (%) | F1 (%) | ROC-AUC Score (%) |
 |  ----------   | ---------------- | -------------- | ----------- | ------------------ | --------------- | ---------------- |
 |  **RandomForest**   |   X   |    **83.4**    |     15.0    |        3.5        |      5.7       |       50.1       |
 |                     |  SMOTE |      69.6      |   **17.2**  |      **29.6**      |    **21.7**     |     **52.9**     |
+
+## Confusion Matrix for Test Dataset
