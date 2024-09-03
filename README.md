@@ -1,5 +1,9 @@
 # programmers
 
+## Training & Evaluation
+
+```bash
+$ python3 main.py
 
 ## Dataset
 
