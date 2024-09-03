@@ -22,7 +22,7 @@
 
 
 ## Confusion Matrix for Test Dataset
-|  |   Actual O  |   Actual X   | 
-|  --------- ||  --------- | ---------- |
-|  Predict O ||   1277  |   266   | 
-|  Predict X ||  196   | 61 | 
+| Matrix |   Actual O  |   Actual X   | 
+|  --------- |  --------- | ---------- |
+|  Predict O |   1277  |   266   | 
+|  Predict X |  196   | 61 | 
