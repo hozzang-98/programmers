@@ -3,7 +3,7 @@
 ## Training & Evaluation
 
 ```bash
-$ python3 main.py
+$ python3 main.py --data_dir train_job --over_sampler Borderline --model_save ./model/
 ```
 
 ## Dataset
