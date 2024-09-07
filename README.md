@@ -29,5 +29,5 @@ $ python3 main.py --data_dir train_job --over_sampler Borderline --model_save ./
 ## Confusion Matrix for Test Dataset
 | Matrix |   Actual O  |   Actual X   | 
 |  --------- |  --------- | ---------- |
-|  Predict O |   1277  |   266   | 
+|  Predict O |   1,277  |   266   | 
 |  Predict X |  196   | 61 | 
